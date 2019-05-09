@@ -43,11 +43,11 @@ const Navbar = ({ navbarStyle, logoStyle, row, menuWrapper }) => {
               menuItems={MENU_ITEMS}
               offset={-70}
             />
-            <ScrollSpyMenu
+            {/* <ScrollSpyMenu
               className="main_menu menuRight"
               menuItems={MENU_RIGHT_ITEMS}
               offset={-70}
-            />
+            /> */}
             <Drawer
               width="420px"
               placement="right"
@@ -61,11 +61,11 @@ const Navbar = ({ navbarStyle, logoStyle, row, menuWrapper }) => {
                 drawerClose={true}
                 offset={-70}
               />
-              <ScrollSpyMenu
+              {/* <ScrollSpyMenu
               className="main_menu menuRight"
               menuItems={MENU_RIGHT_ITEMS}
               offset={-70}
-            />
+            /> */}
             </Drawer>
           </Box>
         </Box>

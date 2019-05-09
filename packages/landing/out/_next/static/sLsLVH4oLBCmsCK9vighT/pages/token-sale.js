@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"+TJN":function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/token-sale",function(){var n=w("jxOy");return{page:n.default||n}}])},jxOy:function(n,o){}},[["+TJN",0]]]);

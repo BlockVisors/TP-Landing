@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"46tO":function(n,o,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){var n=u("Juyh");return{page:n.default||n}}])},Juyh:function(n,o){}},[["46tO",0]]]);

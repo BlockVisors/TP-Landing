@@ -7,6 +7,14 @@
       "publicPath": "static/chunks/0.js"
     }
   ],
+  "@glidejs/glide/dist/css/glide.core.min.css": [
+    {
+      "id": "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css",
+      "name": "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
   "@redq/reuse-modal/es/index.css": [
     {
       "id": "../../node_modules/@redq/reuse-modal/es/index.css",
@@ -17,7 +25,7 @@
   ],
   "undefined": [
     {
-      "id": 1,
+      "id": 6,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
@@ -29,19 +37,25 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 4,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
       "id": 5,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 6,
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 7,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
@@ -71,10 +85,10 @@
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "@glidejs/glide/dist/css/glide.core.min.css": [
+  "react-image-gallery/styles/css/image-gallery.css": [
     {
-      "id": "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css",
-      "name": "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css",
+      "id": "../../node_modules/react-image-gallery/styles/css/image-gallery.css",
+      "name": "../../node_modules/react-image-gallery/styles/css/image-gallery.css",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
