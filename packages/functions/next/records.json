@@ -1,0 +1,215 @@
+{
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@redq/reuse-modal/es/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/flaticon.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@glidejs/glide/dist/css/glide.core.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-image-gallery/styles/css/image-gallery.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/rc-drawer/assets/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/rc-tabs/assets/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-accessible-accordion/dist/fancy-example.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/icon-example-page.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi ../../node_modules/next/dist/client/next": 0,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@redq/reuse-modal/es/index.css 0": 1,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/flaticon.css 0": 2,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/rc-drawer/assets/index.css 0": 3,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/rc-tabs/assets/index.css 0": 4,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/@glidejs/glide/dist/css/glide.core.min.css 0": 5,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-accessible-accordion/dist/fancy-example.css 0": 6,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/react-image-gallery/styles/css/image-gallery.css 0": 7,
+      "css ../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/common/src/assets/css/icon-example-page.css 0": 8
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "styles": 2,
+      "static/Llo0K52M80aU_52tjs9~6/pages/TIP.js": 3,
+      "static/Llo0K52M80aU_52tjs9~6/pages/_app.js": 4,
+      "static/Llo0K52M80aU_52tjs9~6/pages/_error.js": 5,
+      "static/Llo0K52M80aU_52tjs9~6/pages/about.js": 6,
+      "static/Llo0K52M80aU_52tjs9~6/pages/agency.js": 7,
+      "static/Llo0K52M80aU_52tjs9~6/pages/app.js": 8,
+      "static/Llo0K52M80aU_52tjs9~6/pages/contact.js": 9,
+      "static/Llo0K52M80aU_52tjs9~6/pages/crypto.js": 10,
+      "static/Llo0K52M80aU_52tjs9~6/pages/developers.js": 11,
+      "static/Llo0K52M80aU_52tjs9~6/pages/hosting.js": 12,
+      "static/Llo0K52M80aU_52tjs9~6/pages/icons.js": 13,
+      "static/Llo0K52M80aU_52tjs9~6/pages/index.js": 14,
+      "static/Llo0K52M80aU_52tjs9~6/pages/index1.js": 15,
+      "static/Llo0K52M80aU_52tjs9~6/pages/indexOriginalTPlanding.js": 16,
+      "static/Llo0K52M80aU_52tjs9~6/pages/portfolio.js": 17,
+      "static/Llo0K52M80aU_52tjs9~6/pages/ride.js": 18,
+      "static/Llo0K52M80aU_52tjs9~6/pages/saasclassic.js": 19,
+      "static/Llo0K52M80aU_52tjs9~6/pages/saasmodern.js": 20,
+      "static/Llo0K52M80aU_52tjs9~6/pages/token-sale.js": 21,
+      "static/runtime/main.js": 22
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      2,
+      20,
+      21,
+      22,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

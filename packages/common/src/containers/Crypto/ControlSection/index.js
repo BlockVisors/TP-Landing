@@ -72,7 +72,7 @@ const ControlSection = ({
             <Box className="readMoreSection">
               <Text {...readMoreTitle} />
               <Link href="#">
-                <a className="readMore">Read More. </a>
+                <a className="readMore">See Token Sale Info. </a>
               </Link>
             </Box>
             <Fade up>
@@ -134,7 +134,7 @@ ControlSection.defaultProps = {
 
   // Transactions section title default style
   title: {
-    content: 'Take control of your credit and identity.',
+    content: 'Take Control of your Property Investments.',
     fontSize: ['24px', '26px', '30px', '36px', '40px'],
     lineHeight: ['30px', '32px', '40px', '50px', '55px'],
     fontWeight: '700',
@@ -157,7 +157,7 @@ ControlSection.defaultProps = {
     maxWidth: ['100%', '100%', '100%', '100%', '430px'],
   },
   sectionSubTitle: {
-    content: 'Effortless crypto for everyone.',
+    content: 'Join the TPROP Token Sale.',
     as: 'span',
     textAlign: 'left',
     fontSize: ['16px', '16px', '18px', '20px', '20px'],
@@ -174,7 +174,7 @@ ControlSection.defaultProps = {
     fontWeight: '500',
   },
   readMoreTitle: {
-    content: 'Sale currently on hold. ',
+    content: 'Sale Starting Soon. ',
     as: 'span',
     fontSize: ['18px', '18px', '20px', '20px', '20px'],
     lineHeight: ['25px', '27px', '27px', '27px', '27px'],

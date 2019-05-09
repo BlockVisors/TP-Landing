@@ -141,7 +141,7 @@ ContactSection.defaultProps = {
     textAlign: ['center', 'center'],
   },
   title: {
-    content: 'Get The Latest PayBear Updates',
+    content: 'Get The Latest Token Prop Updates',
     fontSize: ['20px', '26px', '30px', '36px', '40px'],
     lineHeight: ['30px', '32px', '40px', '50px', '55px'],
     fontWeight: '700',

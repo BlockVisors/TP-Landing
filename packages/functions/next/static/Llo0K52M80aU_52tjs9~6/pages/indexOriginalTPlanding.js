@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{"l1+1":function(n,w,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/indexOriginalTPlanding",function(){var n=i("w3tV");return{page:n.default||n}}])},w3tV:function(n,w){}},[["l1+1",0]]]);
